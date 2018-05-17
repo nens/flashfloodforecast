@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="475px" height="179px" viewBox="0 0 475 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>fff-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fff-logo" transform="translate(0.000000, -7.000000)">
+            <rect id="Rectangle" fill="#00AFF4" x="0" y="7" width="179" height="179" rx="26"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" x="10" y="17" width="160" height="160" rx="19"></rect>
+            <text id="Flash" font-family="UniNeueHeavy-Italic, Uni Neue" font-size="87" font-style="italic" font-weight="600" fill="#2C547C">
+                <tspan x="214" y="91">Flash</tspan>
+            </text>
+            <text id="Flood-Forecaster" font-family="UniNeueHeavy-Italic, Uni Neue" font-size="36" font-style="italic" font-weight="600" fill="#00A8DE">
+                <tspan x="214" y="147">Flood Forecaster</tspan>
+            </text>
+            <path d="M37.8553487,56.6517605 C54.7300284,33.6294011 71.7470181,33.6294011 88.9063178,56.6517605 C106.065618,79.6741198 123.539641,76.7963249 141.328389,48.0183757" id="Path-2" stroke="#E80100" stroke-width="5"></path>
+            <path d="M37.8553487,96.6517605 C54.7300284,73.6294011 71.7470181,73.6294011 88.9063178,96.6517605 C106.065618,119.67412 123.539641,116.796325 141.328389,88.0183757" id="Path-2" stroke="#254F84" stroke-width="5"></path>
+            <path d="M37.8553487,136.65176 C54.7300284,113.629401 71.7470181,113.629401 88.9063178,136.65176 C106.065618,159.67412 123.539641,156.796325 141.328389,128.018376" id="Path-2-Copy" stroke="#FFFFFF" stroke-width="5"></path>
+        </g>
+    </g>
+</svg>
